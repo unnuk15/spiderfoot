@@ -58,15 +58,15 @@ SpiderFoot can be used offensively (e.g. in a red team exercise or penetration t
 
 You can target the following entities in a SpiderFoot scan:
 
- - IP address
- - Domain/sub-domain name
- - Hostname
+ - IP address 
+ - Domain/sub-domain name fb.com/uyenjulie.julie
+ - Hostname facebook.com
  - Network subnet (CIDR)
  - ASN
- - E-mail address
- - Phone number
- - Username
- - Person's name
+ - E-mail address uyencan89@gmail.com magicgirl_22vt@yahoo.com
+ - Phone number +84932730735
+ - Username uyencan89 uyn uyn 89 julie-may
+ - Person's name Can Thi Kim Uyen
  - Bitcoin address
  
 SpiderFoot's 200+ modules feed each other in a publisher/subscriber model to ensure maximum data extraction to do things like:
